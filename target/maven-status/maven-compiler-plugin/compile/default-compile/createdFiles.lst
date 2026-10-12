@@ -1,0 +1,4 @@
+com\mycompany\negocio_de_almacenes\Negocio_de_almacenes.class
+com\mycompany\negocio_de_almacenes\CURDAlmacenaje$Producto.class
+com\mycompany\negocio_de_almacenes\CURDAlmacenaje$Movimiento.class
+com\mycompany\negocio_de_almacenes\CURDAlmacenaje.class
